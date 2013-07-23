@@ -12,8 +12,8 @@ Este proyecto tiene como finalidad poder proporcionar las bases para aprender a 
 
 ===========
 
-PySide Versión 1.1.0
-Python Versión 2.7
+- PySide Versión 1.1.0
+- Python Versión 2.7
 
 ===========
 
