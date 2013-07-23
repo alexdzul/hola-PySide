@@ -17,4 +17,4 @@ Especificaciones Técnicas:
 ===========
 
 - Canal de Youtube: youtube.com/alexexc2
-By Alex Dzul.
+* By Alex Dzul.
