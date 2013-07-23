@@ -1,10 +1,8 @@
 hola-PySide
 ===========
 
-Proyecto de Alex Dzul 
-Canal de Youtube: youtube.com/alexexc2
+-Proyecto Python 
 
-===========
 
 Este proyecto tiene como finalidad poder proporcionar las bases para aprender a programar con las librerías de PySide y así mismo familiarizarnos con el lenguaje de programación de Python.
 
@@ -18,4 +16,5 @@ Especificaciones Técnicas:
 
 ===========
 
+-Canal de Youtube: youtube.com/alexexc2
 By Alex Dzul.
